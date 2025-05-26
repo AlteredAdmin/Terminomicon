@@ -1,8 +1,10 @@
+<p align="center">
+
 # Terminomicon
 A "grimoire" of terminal power.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlteredAdmin/Terminomicon/refs/heads/main/Terminomicon.jpg" alt="Centered Image" height="300"/>
+
+  <img src="https://raw.githubusercontent.com/AlteredAdmin/Terminomicon/refs/heads/main/Terminomicon.jpg" alt="Terminomicon Book" height="300"/>
 </p>
 
 - Main item
