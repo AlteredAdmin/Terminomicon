@@ -1,8 +1,5 @@
-     _______ _______  ______ _______ _____ __   _  _____  _______ _____ _______  _____  __   _
-        |    |______ |_____/ |  |  |   |   | \  | |     | |  |  |   |   |       |     | | \  |
-        |    |______ |    \_ |  |  | __|__ |  \_| |_____| |  |  | __|__ |_____  |_____| |  \_|
-                                                                                              
-
+### Terminomicon
+A "grimoire" of terminal power.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlteredAdmin/Terminomicon/refs/heads/main/Terminomicon.jpg" alt="Centered Image" height="300"/>
