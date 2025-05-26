@@ -1,4 +1,4 @@
-<p align="
+<p align="center">
 
 
     ▄▄▄█████▓▓█████  ██▀███   ███▄ ▄███▓ ██▓ ███▄    █  ▒█████   ███▄ ▄███▓ ██▓ ▄████▄   ▒█████   ███▄    █ 
@@ -13,7 +13,7 @@
                                                                                ░                            
 
 
-">This text is centered.</p>
+</p>
 
 <p align="center">
   <img src="your-image-url.png" alt="Centered Image" />
