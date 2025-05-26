@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlteredAdmin/Terminomicon/refs/heads/main/Terminomicon.jpg" alt="Centered Image" />
+  <img src="https://raw.githubusercontent.com/AlteredAdmin/Terminomicon/refs/heads/main/Terminomicon.jpg" alt="Centered Image" height="300"/>
 </p>
 
 
