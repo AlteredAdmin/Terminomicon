@@ -1,4 +1,9 @@
-<p align="center"># Terminomicon</p>
+<div align="center">
+
+# Terminomicon
+
+</div>
+
 <p align="center">A "grimoire" of terminal power.</p>
 
 <p align="center">
