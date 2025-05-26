@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="your-image-url.png" alt="Centered Image" />
+  <img src="https://raw.githubusercontent.com/AlteredAdmin/Terminomicon/refs/heads/main/Terminomicon.jpg" alt="Centered Image" />
 </p>
 
 
