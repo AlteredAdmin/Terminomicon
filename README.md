@@ -1,6 +1,6 @@
 
 # Terminomicon
-A "grimoire" of terminal power.
+<p align="center">A "grimoire" of terminal power.</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlteredAdmin/Terminomicon/refs/heads/main/Terminomicon.jpg" alt="Terminomicon Book" height="300"/>
