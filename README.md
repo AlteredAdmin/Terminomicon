@@ -16,4 +16,14 @@
     1. Nested ordered sub-item
     2. Another nested sub-item
 ## System Monitoring
-    - Nested unordered sub-bullet
+- Main item
+    1. Nested ordered sub-item
+    2. Another nested sub-item
+## Networking & Internet
+## Package Management
+## Text & Code Editing
+## Productivity & Utilities
+## Development Tools
+## Communication
+## Music
+## Fun & Miscellaneous
