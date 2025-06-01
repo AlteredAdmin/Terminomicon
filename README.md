@@ -19,7 +19,7 @@ Welcome, command-line conjurer. You've just opened the Terminomicon, an arcane t
 ### 1. Midnight Commander
 **Midnight Commander (`mc`)** — the GNOME Commander of the console: two panels, drop‑down menus, an internal viewer/editor, and even SFTP/FTP support.
 
-Install with:
+**Install with:**
   ```bash
   sudo apt install mc
   ```
