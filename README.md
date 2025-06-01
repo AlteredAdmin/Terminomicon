@@ -23,7 +23,10 @@ Welcome, command-line conjurer. You've just opened the Terminomicon, an arcane t
   ```bash
   sudo apt install mc
   ```
- 
+**Ranger** — Vim‑style keybindings, multi‑column layout, image/pdf previews, and easy rifle‑based opener system.
+
+**Install with:**
+  `sudo apt install ranger`
   
 ## System Monitoring:
 - Main item
