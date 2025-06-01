@@ -17,15 +17,15 @@ Welcome, command-line conjurer. You've just opened the Terminomicon, an arcane t
 ## File Management:
 
 ### 1. Midnight Commander
-**Midnight Commander (`mc`)** — the GNOME Commander of the console: two panels, drop‑down menus, an internal viewer/editor, and even SFTP/FTP support.
+* **Midnight Commander (`mc`)** — the GNOME Commander of the console: two panels, drop‑down menus, an internal viewer/editor, and even SFTP/FTP support.
 
-**Install with:**
+* **Install with:**
   ```bash
   sudo apt install mc
   ```
-**Ranger** — Vim‑style keybindings, multi‑column layout, image/pdf previews, and easy rifle‑based opener system.
+*  **Ranger** — Vim‑style keybindings, multi‑column layout, image/pdf previews, and easy rifle‑based opener system.
 
-**Install with:**
+*  **Install with:**
 ```
 sudo apt install ranger
 ```
