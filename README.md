@@ -15,9 +15,13 @@ Welcome, command-line conjurer. You've just opened the Terminomicon, an arcane t
 
 
 ## File Management:
-- Main item
-    1. Nested ordered sub-item
-    2. Another nested sub-item
+## Classic two‑pane “orthodox” managers
+
+* **Midnight Commander (`mc`)** — the GNOME Commander of the console: two panels, drop‑down menus, an internal viewer/editor, and even SFTP/FTP support.
+* Install with
+  ```bash
+  sudo apt install mc
+  ```
  
   
 ## System Monitoring:
