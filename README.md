@@ -14,32 +14,32 @@
 Welcome, command-line conjurer. You've just opened the Terminomicon, an arcane tome of knowledge forged in the fires of open-source sorcery. This is not your average list of Linux tools—this is a grimoire, meticulously curated for those who wield the terminal with purpose, power, and precision.
 
 
-## File Management
+## File Management:
 - Main item
     1. Nested ordered sub-item
     2. Another nested sub-item
  
   
-## System Monitoring
+## System Monitoring:
 - Main item
     1. Nested ordered sub-item
     2. Another nested sub-item
  
-## Networking & Internet
+## Networking & Internet:
 
-## Package Management
+## Package Management:
 
-## Text & Code Editing
+## Text & Code Editing:
 
-## Productivity & Utilities
+## Productivity & Utilities:
 
-## Development Tools
+## Development Tools:
 
-## Communication
+## Communication:
 
-## Media
+## Media:
 
-### MPV
+### 1. MPV
 
 [`mpv`](https://mpv.io/installation/) is a free (as in freedom) media player for the command line. It supports a wide variety of:
 
@@ -53,4 +53,4 @@ To install `mpv` using Snap, run the following command:
 sudo snap install mpv
 ```
 
-## Fun & Miscellaneous
+## Fun & Miscellaneous:
