@@ -41,5 +41,6 @@ To install `mpv` using Snap, run the following command:
 
 ```bash
 sudo snap install mpv
+```
 
 ## Fun & Miscellaneous
