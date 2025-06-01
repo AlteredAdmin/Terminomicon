@@ -18,17 +18,27 @@ Welcome, command-line conjurer. You've just opened the Terminomicon, an arcane t
 - Main item
     1. Nested ordered sub-item
     2. Another nested sub-item
+ 
+  
 ## System Monitoring
 - Main item
     1. Nested ordered sub-item
     2. Another nested sub-item
+ 
 ## Networking & Internet
+
 ## Package Management
+
 ## Text & Code Editing
+
 ## Productivity & Utilities
+
 ## Development Tools
+
 ## Communication
+
 ## Media
+
 ### MPV
 
 [`mpv`](https://mpv.io/installation/) is a free (as in freedom) media player for the command line. It supports a wide variety of:
