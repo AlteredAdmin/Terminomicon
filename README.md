@@ -26,7 +26,7 @@ Welcome, command-line conjurer. You've just opened the Terminomicon, an arcane t
 ### 2. Ranger
 *  **Ranger** — Vim‑style keybindings, multi‑column layout, image/pdf previews, and easy rifle‑based opener system.
 
-*  **Install with:**
+* **Install with:**
   ```bash
   sudo apt install ranger
   ```
