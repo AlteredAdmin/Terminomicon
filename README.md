@@ -28,5 +28,18 @@ Welcome, command-line conjurer. You've just opened the Terminomicon, an arcane t
 ## Productivity & Utilities
 ## Development Tools
 ## Communication
-## Music
+## Media
+### MPV
+
+[`mpv`](https://mpv.io/installation/) is a free (as in freedom) media player for the command line. It supports a wide variety of:
+
+- Media file formats  
+- Audio and video codecs  
+- Subtitle types
+
+To install `mpv` using Snap, run the following command:
+
+```bash
+sudo snap install mpv
+
 ## Fun & Miscellaneous
